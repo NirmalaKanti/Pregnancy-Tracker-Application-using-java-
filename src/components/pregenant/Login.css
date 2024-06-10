@@ -1,0 +1,202 @@
+
+
+.body {
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    margin: 0; 
+    padding: 0; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    /* overflow: hidden; */
+    overflow-x: hidden;
+    height: 100vh;
+    background-image: url('C:\Users\nirma\OneDrive\Desktop\MP1\pregnacytracker\src\components\b1.jpg');
+    /* background-image: url('C:\Users\nirma\OneDrive\Desktop\MP1\pregnacytracker\src\components\Images\fetus2.jpg'); */
+  }
+  
+ 
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+    font-size: larger;
+  }
+  
+  label {
+    text-align: left;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    width: 97%;
+    padding: 10px;
+    background-color: rgb(22, 163, 219); 
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  
+  }
+  p{
+  padding-left: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif; 
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .logo {
+    align-self: flex-start;
+  }
+  
+  nav {
+    align-self: flex-end;
+  }
+  
+  
+  
+  
+  .id1{
+  padding-top: 20px;
+  color:rgb(5, 5, 107);
+  margin-top: 30px;
+  text-align: center;
+  font-size: 45px;
+  }
+  
+  .contact1 {
+    position: fixed;
+    width: 440px;
+    margin: 14vh auto 0 auto;
+    padding: 30px;
+    margin-left: 13%;
+    /* padding-left: 50px; */
+    border-radius: 13px;
+    font-size: 18px;
+    background-color:rgb(199, 195, 195);
+    border: 3px solid rgb(4, 4, 31); 
+    opacity: 0.7;
+  }
+  
+  .contact2 {
+    width: 450px;
+    margin: 6vh auto 0 auto;
+    padding: 26px;
+    margin-left: 10%;
+    background-color: rgb(199, 195, 195); 
+    border-radius: 10px;
+    font-size: 18px;
+    box-shadow: 0 0 10px gray; 
+    border: 3px solid rgb(4, 4, 31); 
+    opacity: 0.7;
+   
+  }
+  
+  .kavya1 {
+    cursor: pointer;
+    width: 97.5%;
+    font-size: 25px;
+    color: rgb(240, 234, 234);
+    border-radius: 4px;
+    background-color:rgb(41, 38, 38);
+    border: none;
+    padding-left: 100px;
+    padding-right: 70px;
+    text-decoration: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 3%;
+    margin-top: 1%;
+  }
+  .kavya1:hover{
+    background-color: #0d0747;
+    border-color: #ee0707;
+  }
+  .kavya:hover{
+    background-color: #0d0747;
+    border-color: #ee0707;
+  }
+  .contact label{
+  color: rgb(24, 23, 23);
+  font-weight: bold;
+  font-size: 20px;
+  }
+  .kavya {
+    cursor: pointer;
+    width: 20%;
+    font-size: 30px;
+    color: rgb(240, 234, 234);
+    border-radius: 4px;
+    background-color:rgb(71, 67, 67);
+    border: none;
+    padding-left: 140px;
+    padding-right: 200px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  
+    margin-top: 2%;
+  }
+  .contact input {
+    display: flex;
+    flex-direction: column;
+    /* border-color: rgb(26, 24, 26); */
+    border-radius: 5px;
+    border-width: 3px;
+    font-size: 17px;
+    padding: 10px;
+    width: 90%;
+    border-color:  rgb(51, 48, 48); 
+    border: 3px solid rgb(23, 23, 35);  /* Add some transparency to make the background image visible */
+    margin-bottom: 5%;
+  }
+  
+  .ash{
+    margin-top: 3%;
+    font-size: 37px;
+    font-weight: bold;
+    color:rgb(0, 0, 7); 
+    margin-left: 30%;
+  }
+
+  /* .n1{
+    background-image: url('C:\Users\nirma\OneDrive\Desktop\MP1\pregnacytracker\src\components\b1.jpg');
+    background-size: cover;
+    background-Attachment: 'fixed';
+    background-repeat: no-repeat;
+    height: 120vh; 
+  } */
+
+  .nirmala{
+    margin-top: 3%;
+    color:black;
+    font-size: 25px;
+  }
+  .nirmala1{
+    color: rgb(16, 2, 70);
+    font-size: 21px;
+    font-weight: 200;
+    text-decoration: underline;
+  }
+  .account{
+    color: #071e84;
+  }

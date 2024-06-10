@@ -1,0 +1,183 @@
+
+
+.nk1 {
+    color: rgb(10, 10, 24);
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 2%;
+  }
+  
+  .nk2 {
+    margin-left: 10px;
+    font-size: 28px;
+  }
+  
+  .bdevelop-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 5%;
+  }
+  
+  .tracker-title {
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .tracker-title5 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: brown;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-label {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .date-picker {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
+  .submit-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .confirmation-buttons {
+    display: flex;
+    /* justify-content: space-between; */
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-btn {
+    background-color: #6a6a6b;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    width: 30%;
+    margin-right: 3%;
+  }
+  
+  .confirmation-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .fetus-age {
+    margin-top: 20px;
+  }
+  
+  .fetus-age-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: brown;
+  }
+  
+  .fetus-age-value {
+    font-size: 23px;
+    color: #555;
+  }
+  
+  
+  /* Navbar */
+  
+  /* Sidebar */
+  .sidebar {
+    position: fixed;
+    top: 9%;
+    left: -200px;
+    width: 200px;
+    height: 100%;
+    background-color: #908989;
+    color: #fff;
+    transition: left 0.3s ease;
+  }
+  
+  .sidebar-toggle{
+    margin-left: 5%;
+   
+  }
+  
+  .sidebar.open {
+    left: 0;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    padding: 10px;
+  }
+  
+  .sidebar ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Content */
+  .content {
+    margin-left: 200px;
+    padding: 20px;
+  }
+  
+  .contact {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+  }
+  
+  .kavya1 {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .kavya1:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 768px) {
+    .content {
+      margin-left: 0;
+    }
+  }

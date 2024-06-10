@@ -1,0 +1,525 @@
+  [
+    {
+      "week": 1,
+      "height": "0.1 inches",
+      "weight": "0.01 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-2-fertilization_4x3.png?width=396",
+        "sizeComparison": "week1_size_comparison.jpg"
+      },
+      "weeklyReads": {
+        "content1":"Your baby is just starting to develop, and the neural tube is forming.",
+        "pic1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-yzO1PH2XKtn1OfkW1E9ewoVHTvBcHdOLD5Roz9yJA&s",
+        "content2":"Take prenatal vitamins containing folic acid to support your baby's development.",
+        "pic2":""
+      }
+    },
+    {
+      "week": 2,
+      "height": "0.2 inches",
+      "weight": "0.02 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-3-blastocycst_4x3.png?width=396",
+        "sizeComparison": "week2_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "This week, your baby's heart begins to form, along with the neural tube.",
+        "Make sure to stay hydrated and eat nutritious foods to support your baby's growth."
+      ]
+    },
+    {
+      "week": 3,
+      "height": "0.3 inches",
+      "weight": "0.03 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-4-yolk-sac_4x3.png?width=396",
+        "sizeComparison": "week3_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's brain and spinal cord are beginning to take shape.",
+        "Avoid harmful substances such as alcohol, tobacco, and certain medications."
+      ]
+    },
+    {
+      "week": 4,
+      "height": "0.4 inches",
+      "weight": "0.04 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-5-amniotic-sac_4x3.png?width=396",
+        "sizeComparison": "week4_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby is now called an embryo and is developing rapidly.",
+        "Attend your first prenatal appointment to confirm your pregnancy and discuss prenatal care."
+      ]
+    },
+    {
+      "week": 5,
+      "height": "0.5 inches",
+      "weight": "0.05 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-6-webbed-hands_4x3.png?width=396",
+        "sizeComparison": "week5_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's heart is beginning to beat, and arm and leg buds are forming.",
+        "Start tracking your pregnancy symptoms and schedule regular prenatal check-ups."
+      ]
+    },
+    {
+      "week": 6,
+      "height": "0.6 inches",
+      "weight": "0.06 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-7-tailbone_4x3.png?width=396",
+        "sizeComparison": "week6_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's facial features are beginning to form, including eyes, ears, and nose.",
+        "Consider prenatal genetic testing if recommended by your healthcare provider."
+      ]
+    },
+    {
+      "week": 7,
+      "height": "0.7 inches",
+      "weight": "0.07 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-8-brain-nerve-cells_4x3.png?width=396",
+        "sizeComparison": "week7_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's brain is growing rapidly, and facial features are becoming more defined.",
+        "Continue taking prenatal vitamins and eating a balanced diet rich in nutrients."
+      ]
+    },
+    {
+      "week": 8,
+      "height": "0.8 inches",
+      "weight": "0.08 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-9-finger-touch-pads_4x3.png?width=396",
+        "sizeComparison": "week8_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's fingers and toes are forming, and internal organs are developing.",
+        "Stay active with prenatal exercises such as walking, swimming, or yoga."
+      ]
+    },
+    {
+      "week": 9,
+      "height": "0.9 inches",
+      "weight": "0.09 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-10-fingernails_4x3.png?width=396",
+        "sizeComparison": "week9_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby is now called a fetus and is becoming more active.",
+        "Start planning your maternity leave and preparing for your baby's arrival."
+      ]
+    },
+    {
+      "week": 10,
+      "height": "1 inch",
+      "weight": "0.1 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-11-tooth-buds_4x3.png?width=396   ",
+        "sizeComparison": "week10_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's vital organs are fully formed, and the skeleton is beginning to harden.",
+        "Discuss prenatal screening tests with your healthcare provider to assess your baby's health."
+      ]
+    },
+    {
+      "week": 11,
+      "height": "1.5 inches",
+      "weight": "0.25 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-12-eyelids_4x3.png?width=396",
+        "sizeComparison": "week11_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's facial features are more defined, and fingernails and toenails are forming.",
+        "Attend childbirth education classes to learn about labor, delivery, and newborn care."
+      ]
+    },
+    {
+      "week": 12,
+      "height": "2 inches",
+      "weight": "0.5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/pregnancy-week-13-fingerprints_4x3.png?width=396",
+        "sizeComparison": "week12_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's digestive system is developing, and vocal cords are forming.",
+        "Start thinking about baby names and creating a birth plan with your partner."
+      ]
+    },
+    {
+      "week": 13,
+      "height": "2.5 inches",
+      "weight": "1 ounce",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/14-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week13_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's kidneys are producing urine, and the liver is starting to function.",
+        "Enjoy regular physical activity such as prenatal yoga or swimming to stay healthy."
+      ]
+    },
+    {
+      "week": 14,
+      "height": "3 inches",
+      "weight": "1.5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/15-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week14_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby can now make facial expressions, and the hair on the head is growing.",
+        "Get plenty of rest and practice relaxation techniques to reduce stress."
+      ]
+    },
+    {
+      "week": 15,
+      "height": "4 inches",
+      "weight": "2.5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/16-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week15_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's limbs are lengthening, and movements are becoming more coordinated.",
+        "Take time to connect with your baby by talking, singing, or playing music."
+      ]
+    },
+    {
+      "week": 16,
+      "height": "5 inches",
+      "weight": "3.5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/17-weeks-pregnant_4x3.png?width=396g",
+        "sizeComparison": "week16_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's eyes can now detect light, and ears are moving into their final position.",
+        "Attend prenatal appointments regularly and discuss any concerns with your healthcare provider."
+      ]
+    },
+    {
+      "week": 17,
+      "height": "6 inches",
+      "weight": "5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/18-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week17_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's skeleton is hardening, and fingerprints are forming.",
+        "Start planning your baby shower and creating a registry for baby essentials."
+      ]
+    },
+    {
+      "week": 18,
+      "height": "7 inches",
+      "weight": "7 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/19-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week18_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's movements are becoming more noticeable, and you may feel kicks or flutters.",
+        "Begin thinking about breastfeeding and researching breastfeeding techniques."
+      ]
+    },
+    {
+      "week": 19,
+      "height": "8 inches",
+      "weight": "8.5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/20-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week19_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's sensory organs are developing, including taste buds and smell receptors.",
+        "Continue taking childbirth classes and learning about pain management options for labor."
+      ]
+    },
+    {
+      "week": 20,
+      "height": "10 inches",
+      "weight": "10.5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/21-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week20_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby is halfway developed and may start to hiccup or suck their thumb.",
+        "Schedule a mid-pregnancy ultrasound to check your baby's growth and development."
+      ]
+    },
+    {
+      "week": 21,
+      "height": "11 inches",
+      "weight": "12.5 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/22-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week21_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's digestive system is maturing, and swallowing movements are increasing.",
+        "Discuss baby care and safety with your partner, including car seat installation and infant CPR."
+      ]
+    },
+    {
+      "week": 22,
+      "height": "11.5 inches",
+      "weight": "15 ounces",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/23-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week22_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's eyelids are now open, and eyebrows and eyelashes are starting to grow.",
+        "Plan a babymoon getaway with your partner to relax and enjoy time together before the baby arrives."
+      ]
+    },
+    {
+      "week": 23,
+      "height": "12 inches",
+      "weight": "1 pound",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/24-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week23_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's skin is becoming more opaque, and blood vessels are visible through it.",
+        "Attend prenatal yoga or childbirth preparation classes to help prepare for labor and delivery."
+      ]
+    },
+    {
+      "week": 24,
+      "height": "12.5 inches",
+      "weight": "1.25 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/25-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week24_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's lungs are developing, and the nervous system is maturing.",
+        "Create a birth plan outlining your preferences for labor, delivery, and postpartum care."
+      ]
+    },
+    {
+      "week": 25,
+      "height": "13 inches",
+      "weight": "1.5 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/26-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week25_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's kicks and movements may become stronger and more frequent.",
+        "Start packing your hospital bag with essentials for labor, delivery, and postpartum recovery."
+      ]
+    },
+    {
+      "week": 26,
+      "height": "14 inches",
+      "weight": "1.75 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/27-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week26_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's lungs are producing surfactant, which helps with breathing after birth.",
+        "Discuss breastfeeding and newborn care with your healthcare provider or a lactation consultant."
+      ]
+    },
+    {
+      "week": 27,
+      "height": "14.5 inches",
+      "weight": "2 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/27-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week27_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's brain is developing rapidly, and the nervous system is becoming more complex.",
+        "Tour your hospital or birthing center to familiarize yourself with the facilities and procedures."
+      ]
+    },
+    {
+      "week": 28,
+      "height": "15 inches",
+      "weight": "2.25 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/29-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week28_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's eyes are opening, and the eyelids are less transparent.",
+        "Prepare for your baby's arrival by setting up the nursery and washing baby clothes."
+      ]
+    },
+    {
+      "week": 29,
+      "height": "15.5 inches",
+      "weight": "2.5 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/30-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week29_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's head is growing to accommodate the developing brain.",
+        "Take childbirth education classes to learn about pain management techniques and relaxation methods."
+      ]
+    },
+    {
+      "week": 30,
+      "height": "16 inches",
+      "weight": "2.75 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/31-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week30_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's lungs are maturing, and breathing movements are becoming more regular.",
+        "Practice relaxation techniques such as deep breathing and visualization to prepare for labor."
+      ]
+    },
+    {
+      "week": 31,
+      "height": "16.5 inches",
+      "weight": "3.25 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/32-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week31_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's bones are hardening, but the skull remains soft and flexible for birth.",
+        "Create a birth plan outlining your preferences for pain management, delivery positions, and newborn care."
+      ]
+    },
+    {
+      "week": 32,
+      "height": "17 inches",
+      "weight": "3.75 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/33-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week32_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's kicks and movements may feel stronger as they grow.",
+        "Schedule regular prenatal check-ups to monitor your baby's growth and well-being."
+      ]
+    },
+    {
+      "week": 33,
+      "height": "17.5 inches",
+      "weight": "4.25 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/34-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week33_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's immune system is developing, and they are gaining weight rapidly.",
+        "Stay hydrated and eat small, frequent meals to ease discomfort from indigestion and heartburn."
+      ]
+    },
+    {
+      "week": 34,
+      "height": "18 inches",
+      "weight": "4.75 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/35-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week34_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's skin is becoming smoother, and they are filling out with fat deposits.",
+        "Practice relaxation techniques such as prenatal yoga or meditation to reduce stress."
+      ]
+    },
+    {
+      "week": 35,
+      "height": "18.5 inches",
+      "weight": "5.25 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/36-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week35_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's head may engage in your pelvis in preparation for birth.",
+        "Pack your hospital bag with essentials for labor, delivery, and postpartum recovery."
+      ]
+    },
+    {
+      "week": 36,
+      "height": "19 inches",
+      "weight": "5.75 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/37-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week36_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's lungs are fully developed, and they are practicing breathing movements.",
+        "Attend childbirth education classes with your partner to prepare for labor and delivery."
+      ]
+    },
+    {
+      "week": 37,
+      "height": "19.5 inches",
+      "weight": "6.25 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/38-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week37_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby is considered full term and may arrive at any time now.",
+        "Rest and relax as much as possible in preparation for labor and delivery."
+      ]
+    },
+    {
+      "week": 38,
+      "height": "20 inches",
+      "weight": "6.5 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/39-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week38_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's head may be engaged in your pelvis, ready for birth.",
+        "Stay in touch with your healthcare provider and report any signs of labor or complications."
+      ]
+    },
+    {
+      "week": 39,
+      "height": "20 inches",
+      "weight": "7 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/40-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week39_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Your baby's lungs are mature and ready for breathing on their own.",
+        "Rest and relax as much as possible in these final weeks of pregnancy."
+      ]
+    },
+    {
+      "week": 40,
+      "height": "20 inches",
+      "weight": "7.5 pounds",
+      "images": {
+        "baby": "https://assets.babycenter.com/ims/2018/06/41-weeks-pregnant_4x3.png?width=396",
+        "sizeComparison": "week40_size_comparison.jpg"
+      },
+      "weeklyReads": [
+        "Congratulations! Your baby is full term now and ready to be born.",
+        "Prepare for labor and delivery by packing your hospital bag and discussing your birth plan with your healthcare provider."
+      ]
+    }
+  ]
+  
