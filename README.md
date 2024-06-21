@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+The goal of this project is to develop a Pregnancy Tracking System that offers personalized prenatal care and support. This system aims to improve maternal health outcomes by providing timely reminders, customized nutrition suggestions, and symptom monitoring. The primary objective is to reduce the global maternal mortality ratio, in line with SDG 3: Good Health and Well-being, particularly Target 3.1. 
+
+
+# Steps to run PregnancyTrackerApplication
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
