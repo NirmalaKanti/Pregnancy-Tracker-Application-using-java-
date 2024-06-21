@@ -31,7 +31,7 @@ const Navbar = () => {
             {/* Navigation Links */}
             <ul className="flex space-x-12 text-gray-700 font-sans">
                 <li>
-                    <Link to="/" className="text-gray-700 hover:text-blue-600 text-xl">Home</Link>
+                    <Link to="/cover" className="text-gray-700 hover:text-blue-600 text-xl">Home</Link>
                 </li>
                 <li>
                     <Link to="/pregnancy" className="text-gray-700 hover:text-blue-600 text-xl">Pregnancy</Link>
@@ -51,7 +51,7 @@ const Navbar = () => {
             </ul>
 
             {/* Signup Button */}
-            <Link to="/pregnant/login" className="bg-orange-500 py-2 px-4 rounded-lg text-white font-semibold hover:bg-orange-300">Sign Up</Link>
+            <Link to="/" className="bg-orange-500 py-2 px-4 rounded-lg text-white font-semibold hover:bg-orange-300">LogOut</Link>
         </nav>
     );
 }

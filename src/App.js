@@ -2,6 +2,7 @@
 import './App.css';
 import Login from './components/pregenant/Login';
 import {Routes,Route} from "react-router-dom"
+import Cover1 from './components/Cover1';
 import Cover from './components/Cover';
 import Signin from './components/pregenant/Signin';
 import WelcomeScreen from './components/pregenant/WelcomeScreen';
@@ -28,7 +29,8 @@ function App() {
   
     <div className="App">
         <Routes>
-          <Route path="/" element={<Cover/>}/>
+          <Route path="/" element={<Cover1/>}/>
+          <Route path="/cover" element={<Cover/>}/>
           <Route path="/pregnancy"element={<Content/>}/>
           <Route path="/pregnant/login" element={<Login/>}/>
           <Route path="/pregnant/Signin" element={<Signin />} />

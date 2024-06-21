@@ -11,7 +11,7 @@ const ActivityScreen = () => {
         <img src="https://cdn2.iconfinder.com/data/icons/funtime-animals-humans/60/004_028_boy_baby_human_newborn_happy_child-512.png" alt="Baby5" />
         </div>
         <div className="flex justify-center gap-4">
-          <Link to="/"className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-full">
+          <Link to="/cover"className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-full">
             YES
           </Link>
           <button className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-full">

@@ -178,7 +178,7 @@ const Login = () => {
 
     // Login successful
     toast.success("Login successful");
-    navigate("/pregenant/welcome");
+    navigate("/cover");
   };
 
   return (

@@ -10,7 +10,7 @@ const AboutUs = () => {
   return (
     <>
     <Navbar />
-    {/* <div className='aboutus'>
+    <div className='aboutus'>
       <br /><br /><br /><br />
       <h1>Our Purpose</h1>
       <p>Our endeavour is to shape happier, healthier, smarter individuals right from the time that shaping begins - that is, immediately after conception by helping the pregnant woman make the right lifestyle changes.</p>
@@ -56,7 +56,7 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
-    </div> */}
+    </div>
     <Footer/>
     </>
   );
